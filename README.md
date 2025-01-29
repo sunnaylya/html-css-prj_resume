@@ -1,1 +1,1 @@
-# html-css-prj_resume
+# Учебный проект по курсу "Основы HTML&CSS"
